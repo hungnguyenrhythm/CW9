@@ -9,7 +9,7 @@ const Produce = [
   {name: "Strawberry", type: "Fruit"},
   {name: "Orange", type: "Fruit"},
   {name: "Lettuce", type: "Vegetable"},
-  {name: "Cucumber", type: "Vegetable"},
+  {name: "Cucuumber", type: "Vegetable"},
   {name: "Eggplant", type: "Vegetable"},
   {name: "Squash", type: "Vegetable"},
   {name: "Bell pepper", type: "Vegetable"},
